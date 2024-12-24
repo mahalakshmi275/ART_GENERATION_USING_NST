@@ -19,7 +19,7 @@ This repository contains a Python implementation of Neural Style Transfer (NST) 
 - SciPy
 
 Install dependencies using:
-```bash
+
 pip install -r requirements.txt
 
 ## Key Features
@@ -57,8 +57,10 @@ Optimization: Combines content and style losses into a total loss and minimizes 
 ## SCREENSHOTS :
 CONTENT IMAGE :
 <img width="367" alt="image" src="https://github.com/user-attachments/assets/49d377c0-94fc-4110-b52d-c58a4d1e2ceb" />
+
 STYLE IMAGE :
 <img width="344" alt="image" src="https://github.com/user-attachments/assets/b6a887ee-e769-475e-9443-30166fff568b" />
+
 GENERATED IMAGE :
 <img width="796" alt="image" src="https://github.com/user-attachments/assets/40868d87-9b8a-429c-a281-e4769176c5d3" />
 
