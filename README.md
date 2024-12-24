@@ -40,7 +40,9 @@ Visualization: Matplotlib and Pillow for image handling.
 Optimization: Gradient descent to refine outputs.
 
 ## How It Works
-1. Clone the repository: git clone https://github.com/yourusername/nst-tensorflow.gitcd nst-tensorflow
+1. Clone the repository: git clone https://github.com/yourusername/nst-tensorflow.git
+cd nst-tensorflow
+
 2. Run the notebook Art_generation_using_NST.ipynb:
 
 Provide paths to your content and style images.
